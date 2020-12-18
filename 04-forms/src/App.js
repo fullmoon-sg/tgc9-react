@@ -1,13 +1,13 @@
 import React from 'react';
-import Form from './Form';
+import SurveyForm from './SurveyForm';
 
 function App() {
-  return (
-    <div className="App">
-      <Form/>
-       
-    </div>
-  );
+    return (
+        <div className="App">
+            <SurveyForm/>
+
+        </div>
+    );
 }
 
 export default App;
